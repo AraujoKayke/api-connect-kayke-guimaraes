@@ -50,7 +50,7 @@ A API estará em execução em: http://localhost:3000
 | `PUT` | `/users/:id` | Atualização completa de dados do usuário | `200 OK` | `400 Bad Request`, `404 Not Found` |
 | `DELETE` | `/users/:id` | Exclusão permanente de um usuário | `204 No Content` | `404 Not Found` |
 
-Exemplos de Requisição e Resposta
+## Exemplos de Requisição e Resposta
 1. Criar Usuário (POST /users)
 
 ```json
